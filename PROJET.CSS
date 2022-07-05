@@ -1,0 +1,20 @@
+header{display: flex;
+    justify-content: space-between;
+border: solid red;}
+    ul{display:flex}
+    li{list-style: none;
+    padding:0px 90px;}
+.h1{text-align: center;
+color: blue;}
+p{color: rgb(255, 0, 200);}
+td{border: solid yellow;text-align: center;}
+table{border: solid yellow;
+}
+input{border: 0px;
+border-bottom: 1px solid red;}
+img{width: 400px;;}
+.photo{height: 270px;}
+input{margin: 10px;}
+form{border: 5px solid rgb(9, 255, 0);
+width:290px;}
+body{background-image:url(CaptRRRRRRRRRure.PNG) ;}
